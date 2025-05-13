@@ -1,3 +1,3 @@
 ---
-Title : Hello World
+Title : HelloWorld
 --- 
